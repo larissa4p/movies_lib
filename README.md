@@ -5,8 +5,8 @@
 ![preview2](./.github/preview3.jpg) <br />
 ![preview2](./.github/preview2.jpg) <br />
 
->Projeto 'Filmes'
-Projeto <b><i><u>'Clima Agora'</b></i></u> Projeto com React, consumindo a API do TMDB (filmes), utilizando hooks e React Router, criado com Vite <br>
+>'Filmes'
+Projeto com React, consumindo a API do TMDB (filmes), utilizando hooks e React Router, criado com Vite <br>
 Projeto construído seguindo as dicas do <b>Matheus Battisti - Hora de Codar</b> [YouTube](https://youtu.be/XqxUHVVO7-U)
 
 
